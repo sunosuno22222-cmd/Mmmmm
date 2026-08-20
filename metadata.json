@@ -1,0 +1,8 @@
+{
+  "name": "Carta para Ana",
+  "description": "Uma carta sincera de Benjamim para Ana sobre amadurecimento, arrependimento e sentimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
